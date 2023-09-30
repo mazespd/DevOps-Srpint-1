@@ -38,7 +38,9 @@ Terraform создает инфраструктуру и устанавлива�
   cd /opt/kubernetes_setup/ && sudo ./cluster_install.sh
   ```
 Результаты на скриншотах ниже:
+![Sprint1](https://github.com/mazespd/DevOps-Srpint-1/assets/131882625/b9ea5a65-640e-40c6-a760-13e28a258511)
 
+![Sprint1-1](https://github.com/mazespd/DevOps-Srpint-1/assets/131882625/02ea14a3-a02c-4009-9bc7-82643c7b0212)
 
 
 
